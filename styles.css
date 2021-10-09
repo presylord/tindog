@@ -184,4 +184,8 @@ h2 {
   .navbar-toggler-icon:focus {
     outline: none;
   }
+    .download {
+    padding-left: 3%;
+    margin: 7% auto;
+  }
 }

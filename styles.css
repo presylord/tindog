@@ -168,7 +168,7 @@ h2 {
   color: #6b6565;
 }
 
-@media (max-width: 970px) {
+@media (max-width: 991px) {
   .title-image {
     width: 60%;
     position: static;
